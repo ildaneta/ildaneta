@@ -14,7 +14,7 @@
 
 :page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://linkedin.com/in/ilda-silva-neta)**
 
-:raising_hand: **I'm a volunteer mentor for the Space Squad - [Rocketseat]**(https://rocketseat.com.br/)
+:raising_hand: **I'm a volunteer mentor for the Space Squad - [Rocketseat](https://rocketseat.com.br/)**
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ildaneta&show_icons=true">
 
