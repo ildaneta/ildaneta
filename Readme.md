@@ -54,7 +54,7 @@
 
 **Others Technologies**
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Algolia](https://img.shields.io/badge/-Algolia-5468FF?style=flat-square&logo=Algolia&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=flat-square&logo=Algolia&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
@@ -69,11 +69,11 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **CMS**
-[![Typo3](https://img.shields.io/badge/-Typo3-FF8700?style=flat-square&logo=typo3&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **Operational System**
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **IDE**
