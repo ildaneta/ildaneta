@@ -1,7 +1,7 @@
 # Hi, I'm Ilda Neta :blossom:
 
 [![ildaneta.dev](https://img.shields.io/static/v1?label=Blog%20-%20ildaneta.dev&message=%20&color=pink&style=flat-square&logoColor=white)](http://ildaneta.dev/)
-[!LinkedIn(https://img.shields.io/static/v1?label=Linkedin&message=%20&color=pink&logo=Linkedin&style=flat-square&logoColor=white)](https://www.instagram.com/in/ilda-silva-neta)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.instagram.com/in/ilda-silva-neta)
 [![E-mail](https://img.shields.io/static/v1?label=iildaneta@gmail.com&message=%20&color=pink&logo=gmail&style=flat-square&logoColor=white)](mailto:iildaneta@gmail.com)
 
 ### About me
