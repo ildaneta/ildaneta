@@ -6,7 +6,7 @@
 
 <img src="http://visitor-badge.glitch.me/badge?page_id=ildaneta.ildaneta&color=pink">
 
-### About me
+## About me
 
 <code><img height="20" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png"></code> <strong>I'm a fullstack developer, working remote at [Banco ABC (Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)</strong>
 
