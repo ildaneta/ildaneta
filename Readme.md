@@ -6,9 +6,9 @@
 
 ### About me
 
-:woman_technologist: <strong>I'm a fullstack developer</strong>, working remote at [Banco ABC(Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)
+<code><img height="20" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png"></code> <strong>I'm a fullstack developer</strong>, working remote at [Banco ABC(Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)
 
-<code><img height="20" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png"></code>I'm currently working on Mobile Apps with React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+:woman_technologist: I'm currently working on Mobile Apps with React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
 :page_with_curl: I'm weekly posting tips from the world of technology on LinkedIn
 
