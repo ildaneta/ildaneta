@@ -62,7 +62,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
