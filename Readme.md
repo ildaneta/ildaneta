@@ -1,20 +1,20 @@
 # Hi, I'm Ilda Neta :blossom:
 
 [![ildaneta.dev](https://img.shields.io/static/v1?label=Blog%20-%20ildaneta.dev&message=%20&color=pink&style=flat-square&logoColor=white)](http://ildaneta.dev/)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.instagram.com/in/ilda-silva-neta)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ilda-silva-neta)
 [![E-mail](https://img.shields.io/static/v1?label=iildaneta@gmail.com&message=%20&color=pink&logo=gmail&style=flat-square&logoColor=white)](mailto:iildaneta@gmail.com)
 
 <img src="http://visitor-badge.glitch.me/badge?page_id=ildaneta.ildaneta&color=pink">
 
 ### About me
 
-<code><img height="20" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png"></code> <strong>I'm a fullstack developer</strong>, working remote at [Banco ABC(Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)
+<code><img height="20" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png"></code> <strong>I'm a fullstack developer, working remote at[Banco ABC (Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)</strong>
 
-:woman_technologist: I'm currently working on Mobile Apps with React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+:woman_technologist: **I'm currently working on Mobile Apps with React Native** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
-:page_with_curl: I'm weekly posting tips from the world of technology on LinkedIn
+:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://linkedin.com/in/ilda-silva-neta)**
 
-:raising_hand: I'm a volunteer mentor for the Space Squad - [Rocketseat](https://rocketseat.com.br/)
+:raising_hand: **I'm a volunteer mentor for the Space Squad - [Rocketseat]**(https://rocketseat.com.br/)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ildaneta&show_icons=true">
 
