@@ -49,8 +49,8 @@
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/ildaneta/)
 
 **Design**
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)](https://github.com/ildaneta/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=Dribbble&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/ildaneta/)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **Others Technologies**
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
