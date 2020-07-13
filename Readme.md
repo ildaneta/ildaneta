@@ -38,7 +38,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
@@ -65,7 +65,7 @@
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **CMS**
