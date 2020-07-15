@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ilda-silva-neta)
 [![E-mail](https://img.shields.io/static/v1?label=iildaneta@gmail.com&message=%20&color=pink&logo=gmail&style=flat-square&logoColor=white)](mailto:iildaneta@gmail.com)
 
-//<img src="http://visitor-badge.glitch.me/badge?page_id=ildaneta.ildaneta&color=pink">
-
 ## About me
 
 :woman_technologist: <strong>I'm a fullstack developer</strong>
