@@ -83,9 +83,10 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+
 
 
 ⭐️ From [Ilda Neta](https://github.com/ildaneta)
