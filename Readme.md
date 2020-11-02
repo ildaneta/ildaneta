@@ -35,7 +35,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 
