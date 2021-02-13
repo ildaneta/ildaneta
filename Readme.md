@@ -7,9 +7,7 @@
 
 :woman_technologist: <strong>I'm a Mobile Developer</strong>
 
-:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://linkedin.com/in/ildaneta)**
-
-:raising_hand: **I'm a volunteer mentor for the Space Squad - [Rocketseat](https://rocketseat.com.br/)**
+:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://linkedin.com/in/ildaneta) and on my [Blog](http://ildaneta.dev/)**
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ildaneta&show_icons=true">
 
