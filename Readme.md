@@ -7,9 +7,8 @@
 
 :woman_technologist: <strong>I'm a Mobile Developer</strong>
 
-:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://linkedin.com/in/ildaneta) and on my [Blog](http://ildaneta.dev/)**
+:page_with_curl: **I am a minimalist and curious person, passionate about technology, investment and financial education. These aspects of my personality inspired me to developed my own blog where I write and share many contents regarding these subjects. My main goal is to positively impact our society and the technological community out there, that is why I also like to participate in Technology Lives on Youtube and Talks such as speaker**
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=ildaneta&show_icons=true">
 
 ## Languages and Technologies I use daily
 
