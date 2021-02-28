@@ -69,6 +69,7 @@
 **Operational System**
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Mac OS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=MacOS&link=https://github.com/ildaneta/)
 
 **IDE**
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
