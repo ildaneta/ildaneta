@@ -34,13 +34,15 @@
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 
-**Front-end / Mobile**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+**Mobile / Front-end**
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/ildaneta/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/ildaneta/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/ildaneta/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/ildaneta/)
+
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/ildaneta/)
@@ -54,7 +56,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
