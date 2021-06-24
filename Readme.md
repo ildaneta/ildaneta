@@ -79,4 +79,4 @@
 
 
 
-⭐️ From [Ilda Neta](https://github.com/ildaneta)
+Made with love ⭐️  [Ilda Neta](https://github.com/ildaneta)
