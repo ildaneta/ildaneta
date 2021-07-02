@@ -7,7 +7,7 @@
 
 :woman_technologist: I am working as Mobile Developer!
 
-:page_with_curl: Besides that, I a minimalist and curious person, passionate about technology, investment and financial education. These aspects of my personality inspired me to developed my [own blog](http://ildaneta.dev/) where I write and share many contents regarding these subjects. My main goal is to positively impact our society and the technological community out there, that is why I also like to participate in Technology Lives on Youtube and Talks as a speaker :woman_singer:.
+:page_with_curl: Besides that, I'm a minimalist and curious person, passionate about technology, investment and financial education. These aspects of my personality inspired me to developed my [own blog](http://ildaneta.dev/) where I write and share many contents regarding these subjects. My main goal is to positively impact our society and the technological community out there, that is why I also like to participate in Technology Lives on Youtube and Talks as a speaker :woman_singer:.
 
 
 ## Languages and Technologies I use daily
