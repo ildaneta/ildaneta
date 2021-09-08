@@ -78,4 +78,4 @@
 
 
 
-Made with love ⭐️   [Ilda Neta](https://github.com/ildaneta)
+Made with love by [Ilda Neta](https://github.com/ildaneta)
