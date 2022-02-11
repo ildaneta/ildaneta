@@ -54,8 +54,6 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-db67b4?style=flat-square&logo=graphql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 
 **Database**
