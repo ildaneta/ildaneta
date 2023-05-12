@@ -5,5 +5,6 @@
 
 ## About me
 
-👩🏻‍💻   I'm a Mobile Developer! 📱
+👩🏻‍💻 I'm a Senior Mobile Engineer! 📱
+
 [See about me.](https://ildaneta.dev/about)
