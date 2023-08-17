@@ -4,6 +4,4 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ildaneta)
 
 
-👩🏻‍💻 I'm a Senior Mobile Engineer! 📱
-
 [See about me.](https://ildaneta.dev/about)
